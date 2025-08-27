@@ -829,7 +829,7 @@ section {
     height: 4px;
     background: linear-gradient(to right, var(--primary), var(--secondary));
     border-radius: 2px;
-    transition: width 0.4s ease;
+    transition: width 0.5s ease;
 }
 
 .contact-header h2:hover::after {

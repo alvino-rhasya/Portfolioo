@@ -631,6 +631,7 @@ section {
 
     .image img, .about-image img {
         width: 280px;
+        margin-top: 5rem;
     }
 
     .content h1 {
